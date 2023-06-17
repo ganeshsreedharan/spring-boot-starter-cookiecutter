@@ -1,10 +1,10 @@
-package org.dev.cookiecutter.app_name;
+package org.dev.cookiecutter.{{cookiecutter.app_name}};
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class {{cookiecutter.app_name}}Application {
+public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run({{cookiecutter.app_name}}Application.class, args);

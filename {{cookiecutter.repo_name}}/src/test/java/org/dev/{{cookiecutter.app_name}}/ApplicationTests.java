@@ -1,4 +1,4 @@
-package org.dev.cookiecutter.app_name;
+package org.dev.cookiecutter.{{cookiecutter.app_name}};
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
